@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina Semantica com audio</title>
+</head>
+<body>
+    <header>
+        <h1>Toca disco</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Inicio
+
+                </a></li>
+                <li><a href="#">Sobre
+
+                </a></li>
+                <li><a href="#">Contato
+
+                </a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <article>
+            <section>
+                <h2>Agora tocando:</h2>
+                <p>Happy three friends.</p>
+            </section>
+            <aside>
+                <h3>Todos os direitos reservados.</h3>
+            </aside>
+        </article>
+    </main>
+    <footer>
+        <p>&copy;Toca disco.</p>
+    </footer>
+    <audio> controls autoplay loop>
+        <source src="Iframe Happy Tree Friends Theme Song [DNR2AY7b6kI].mp3"></script>" type="audio/mpeg">
+    </audio>
+</body>
+</html>
